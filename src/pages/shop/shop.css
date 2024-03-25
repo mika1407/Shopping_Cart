@@ -1,7 +1,7 @@
 .shopTitle {
   margin-top: 100px;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
 }
 .products {
   width: 100%;
@@ -23,7 +23,7 @@
 }
 
 .product img {
-  width: 300px;
+  width: 270px;
 }
 
 .product .description {
@@ -43,7 +43,7 @@
   padding-right: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
-  border-radius: 15px;
+  border-radius: 5px;
 }
 
 .addToCartBttn:hover {
