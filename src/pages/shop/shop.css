@@ -1,7 +1,7 @@
 .shopTitle {
   margin-top: 100px;
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
 }
 .products {
   width: 100%;
@@ -51,3 +51,8 @@
   color: white;
   cursor: pointer;
 }
+
+/* .shop {
+  border: 2px black solid;
+  margin: 5px;
+} */

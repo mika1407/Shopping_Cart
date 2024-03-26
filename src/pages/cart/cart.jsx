@@ -21,6 +21,7 @@ export const Cart = () => {
           if (cartItems[product.id] !== 0) {
             return <CartItem data={product} key={product.id}/>;
           }
+          return null; // Lisätään return-lauseke
         })}
       </div>
 
